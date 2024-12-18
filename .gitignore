@@ -1,1 +1,27 @@
 *.pub
+
+# Byte-compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Cache directories
+_pycache_/
+
+# Virtual environment directories
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python specific logs
+*.log
+
+# Other Python-related files
+*.egg
+*.egg-info/
+dist/
+build/
